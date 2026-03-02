@@ -58,7 +58,7 @@ Once archived on Zenodo, the DOI will appear here.
 
 - [Gaspar et al. (2025)](https://doi.org/10.1007/s10334-025-01286-8). Advancing MRI, together: open science in MR research.
 - [Markowetz (2015)](https://doi.org/10.1186/s13059-015-0850-7). Five selfish reasons to work reproducibly.
-- [The Turing Way]([https://the-turing-way.netlify.app/](https://book.the-turing-way.org/))
+- [The Turing Way](https://book.the-turing-way.org/)
 - [Open Brain Consent](https://open-brain-consent.readthedocs.io/)
 
 ---
