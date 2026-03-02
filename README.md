@@ -1,6 +1,9 @@
-# Open Science in MR Radiotherapy: Why It’s Good for You (and Your Future Self)
+# The Importance and Benefits of Open Science: Practical Lessons for Sustainable MR Research
 
-Slides from a 12-minute presentation given at the ISMRM MR in Radiotherapy (MRinRT) Study Group.
+
+Presented as part of the Virtual Meeting: _Open Science for MR in Radiation Therapy_
+
+Slides from a 12-minute presentation given at the ISMRM MR in Radiation Therapy (MRinRT) Study Group.
 
 This talk discusses the practical, self-interested benefits of open science practices in MRI research, with a focus on clinical and translational environments.
 
