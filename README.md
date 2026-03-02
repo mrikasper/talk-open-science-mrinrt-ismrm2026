@@ -27,8 +27,8 @@ The talk concludes with low-barrier steps for getting started.
 
 ## Files
 
-- `slides.pdf` – Presentation slides (final version)
-- `slides.pptx` (or `.key` / `.md`) – Source file
+- `2026-03-02_LarsKasper_ISMRM-MRinRT-SG_BenefitsOfOpenScience.pdf` – Presentation slides (final version)
+- `2026-03-02_LarsKasper_ISMRM-MRinRT-SG_BenefitsOfOpenScience.pptx` – Source file
 - `LICENSE` – CC BY 4.0 license
 
 ---
