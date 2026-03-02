@@ -1,2 +1,70 @@
-# talk-open-science-mrinrt-ismrm2026
-Presentation Materials for talk on the importance and benefits of Open Science in the MR in Radiotherapy Study Group of ISMRM
+# Open Science in MR Radiotherapy: Why It’s Good for You (and Your Future Self)
+
+Slides from a 12-minute presentation given at the ISMRM MR in Radiotherapy (MRinRT) Study Group.
+
+This talk discusses the practical, self-interested benefits of open science practices in MRI research, with a focus on clinical and translational environments.
+
+---
+
+## Abstract
+
+Open science is often framed as a moral or systemic imperative. In this talk, I argue for a complementary perspective: open science is strategically advantageous for individual researchers, labs, and clinical research groups.
+
+Drawing on examples from MRI research and translational neuromodeling, I discuss:
+
+- The practical benefits of reproducible workflows  
+- Increased reuse, visibility, and citation impact  
+- Reduction of technical debt and legacy code risk  
+- Improved collaboration and lab culture  
+- GDPR-compliant data sharing strategies  
+
+The talk concludes with low-barrier steps for getting started.
+
+---
+
+## Files
+
+- `slides.pdf` – Presentation slides (final version)
+- `slides.pptx` (or `.key` / `.md`) – Source file
+- `LICENSE` – CC BY 4.0 license
+
+---
+
+## License
+
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, including commercially, provided appropriate attribution is given.
+
+Full license text:
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## Citation
+
+If you would like to cite these slides:
+
+Kasper, L. (2026). *Open Science in MR Radiotherapy: Why It’s Good for You (and Your Future Self).* ISMRM MRinRT Study Group. Zenodo. DOI: (to be added)
+
+Once archived on Zenodo, the DOI will appear here.
+
+---
+
+## Related Resources
+
+- [Gaspar et al. (2025)](https://doi.org/10.1007/s10334-025-01286-8). Advancing MRI, together: open science in MR research.
+- [Markowetz (2015)](https://doi.org/10.1186/s13059-015-0850-7). Five selfish reasons to work reproducibly.
+- [The Turing Way]([https://the-turing-way.netlify.app/](https://book.the-turing-way.org/))
+- [Open Brain Consent](https://open-brain-consent.readthedocs.io/)
+
+---
+
+## Contact
+
+Lars Kasper  
+Toronto Neuroimaging Facility (ToNI)  
+University of Toronto  
+
+Website: https://mrikasper.github.io  
+GitHub: https://github.com/mrikasper
