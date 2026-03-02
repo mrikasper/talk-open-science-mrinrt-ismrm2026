@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1170876878.svg)](https://doi.org/10.5281/zenodo.18841703)
+
 # The Importance and Benefits of Open Science: Practical Lessons for Sustainable MR Research
 
 
