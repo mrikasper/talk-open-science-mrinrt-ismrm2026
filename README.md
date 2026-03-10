@@ -50,10 +50,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 If you would like to cite these slides:
 
-Kasper, L. (2026). *Open Science in MR Radiotherapy: Why It’s Good for You (and Your Future Self).* ISMRM MRinRT Study Group. Zenodo. DOI: (to be added)
-
-Once archived on Zenodo, the DOI will appear here.
-
+Kasper, L. (2026). *The Importance and Benefits of Open Science: Practical Lessons for Sustainable MR Research*, ISMRM MRinRT Study Group. Zenodo. [DOI:10.5281/zenodo.18841703](https://doi.org/10.5281/zenodo.18841703)
 ---
 
 ## Related Resources
